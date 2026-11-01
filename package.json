@@ -1,0 +1,38 @@
+{
+  "name": "aixxai",
+  "version": "1.6.8",
+  "description": "AIXX CLI - 让你的AI调用万物。One command, every AI model. By AIXX (Wanan Exchange), the verification-first compute exchange. 安装：npx aixxai",
+  "type": "module",
+  "bin": {
+    "aixx": "./bin/aixx.js"
+  },
+  "scripts": {
+    "test": "node bin/aixx.js --version"
+  },
+  "keywords": [
+    "aixx",
+    "aixxai",
+    "ai",
+    "llm",
+    "gateway",
+    "openai",
+    "glm",
+    "kimi",
+    "skill",
+    "agent",
+    "mcp",
+    "claude",
+    "cursor",
+    "api-gateway",
+    "compute",
+    "gpu",
+    "marketplace",
+    "exchange",
+    "wanan"
+  ],
+  "author": "AIXX (Wanan Exchange)",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  }
+}
